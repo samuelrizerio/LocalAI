@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
-torch==2.12.1
+torch==2.13.0
 faster-whisper
 opencv-python
 accelerate
